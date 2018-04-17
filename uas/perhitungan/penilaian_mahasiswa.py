@@ -23,4 +23,4 @@ def nilai_mahasiswa():
         akhir = (tugas*30/100) + (uts*35/100) + (uas*35/100) 
         table.add_rows([['No','Nama','NIM','TUGAS','UTS','UAS','AKHIR'],[i+1, nama[i],nim[i],nilai_tugas[i],nilai_uts[i],nilai_uas[i],akhir]])                                                                                                                                                                                                                                                                                                                                                
     print (table.draw())
-nilai_mahasiswa()
+
