@@ -48,4 +48,3 @@ def tanya():
     else:
         print('\n\tsalah input.........!!!')
 
-cal_menu()
