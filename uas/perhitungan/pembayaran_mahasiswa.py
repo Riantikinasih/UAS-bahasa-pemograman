@@ -71,4 +71,4 @@ def spp_uts():
     print("\tBiaya Tambahan Server Sebesar Rp.5000")
     print("===================================================")
     print("\tTotal Pembayaran SPP & UTS Rp.",total)
-pembayaran()
+
